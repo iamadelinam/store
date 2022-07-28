@@ -1,13 +1,11 @@
-import {PageHeader} from 'antd'
+import { PageHeader } from "antd";
 
 const Header = () => {
-
   return (
     <>
-    <PageHeader title="FakeStore"/>
+      <PageHeader title="FakeStore" />
     </>
-  )
-}
+  );
+};
 
-
-export default Header 
+export default Header;
